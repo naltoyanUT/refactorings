@@ -1,2 +1,2 @@
 # refactorings
-formal proofs of common refactorings
+Formal proofs of common MDE refactorings using Coq theorem prover.
